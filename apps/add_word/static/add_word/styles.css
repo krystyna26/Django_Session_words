@@ -1,0 +1,21 @@
+.wrapper{
+    width: 800px;
+}
+.forma{
+    width: 350px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.clearSession{
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    left: 362px;
+    bottom: 228px;     
+}
+
+.sessionResult{
+    
+}
